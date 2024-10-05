@@ -48,6 +48,8 @@ SourceArt/**/*.tga
 # Binary Files
 Binaries/*
 Plugins/*/Binaries/*
+._Binaries
+
 
 # Builds
 Build/*
@@ -115,3 +117,6 @@ Content/Developer/Florent/TP/
 # dossier plugins Fmod
 Plugins/FMODStudio
 Plugins/FMODStudioNiagara
+Fmod_Project/Fmod_Tiny/Metadata/*
+Fmod_Project/Fmod_Tiny/.unsaved/*
+
