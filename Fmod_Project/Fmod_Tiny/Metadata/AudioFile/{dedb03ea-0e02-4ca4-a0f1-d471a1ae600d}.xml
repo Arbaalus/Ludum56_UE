@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{dedb03ea-0e02-4ca4-a0f1-d471a1ae600d}">
+		<property name="assetPath">
+			<value>SFX_Player/SFX_Player_Move_Creak.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>4.4699583333333335</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{eb198b6d-312f-4109-93f0-f1998758af77}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{3908f296-da38-401e-b507-b0e78b9a66e3}">
+		<property name="assetPath">
+			<value>SFX_Turtle/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{eb198b6d-312f-4109-93f0-f1998758af77}</destination>
+		</relationship>
+	</object>
+</objects>

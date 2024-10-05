@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{34a28d3d-e32b-444c-9ebf-58be4fc2b5e5}">
+		<property name="assetPath">
+			<value>SFX_TurtleTank_Start_02.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.84554166666666664</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{eb198b6d-312f-4109-93f0-f1998758af77}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{aa825132-ae56-47fc-b24c-5732cfc4c1a0}">
+		<property name="assetPath">
+			<value>AMB/AMB_Wind_Far.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>228.19633333333334</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{eb198b6d-312f-4109-93f0-f1998758af77}</destination>
+		</relationship>
+	</object>
+</objects>
