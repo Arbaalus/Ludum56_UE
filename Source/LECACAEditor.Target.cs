@@ -3,13 +3,13 @@
 using UnrealBuildTool;
 using System.Collections.Generic;
 
-public class Ludum_TinyEditorTarget : TargetRules
+public class LECACAEditorTarget : TargetRules
 {
-	public Ludum_TinyEditorTarget(TargetInfo Target) : base(Target)
+	public LECACAEditorTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.V5;
 
-		ExtraModuleNames.AddRange( new string[] { "Ludum_Tiny" } );
+		ExtraModuleNames.AddRange( new string[] { "LECACA" } );
 	}
 }

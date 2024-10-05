@@ -5,7 +5,7 @@
 	"Description": "",
 	"Modules": [
 		{
-			"Name": "Ludum_Tiny",
+			"Name": "LECACA",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}
@@ -17,14 +17,6 @@
 			"TargetAllowList": [
 				"Editor"
 			]
-		},
-		{
-			"Name": "FMODStudio",
-			"Enabled": true
-		},
-		{
-			"Name": "FMODStudioNiagara",
-			"Enabled": true
 		}
 	]
 }

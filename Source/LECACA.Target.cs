@@ -3,13 +3,13 @@
 using UnrealBuildTool;
 using System.Collections.Generic;
 
-public class Ludum_TinyTarget : TargetRules
+public class LECACATarget : TargetRules
 {
-	public Ludum_TinyTarget(TargetInfo Target) : base(Target)
+	public LECACATarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Game;
 		DefaultBuildSettings = BuildSettingsVersion.V5;
 
-		ExtraModuleNames.AddRange( new string[] { "Ludum_Tiny" } );
+		ExtraModuleNames.AddRange( new string[] { "LECACA" } );
 	}
 }

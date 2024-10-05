@@ -7,9 +7,9 @@
 /**
  * 
  */
-class LUDUM_TINY_API TestClass
+class LECACA_API MyClass
 {
 public:
-	TestClass();
-	~TestClass();
+	MyClass();
+	~MyClass();
 };
