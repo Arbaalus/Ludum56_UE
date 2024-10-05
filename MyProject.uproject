@@ -3,16 +3,6 @@
 	"EngineAssociation": "5.4",
 	"Category": "",
 	"Description": "",
-<<<<<<< Updated upstream
-	"Modules": [
-		{
-			"Name": "LECACA",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
-		}
-	],
-=======
->>>>>>> Stashed changes
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",

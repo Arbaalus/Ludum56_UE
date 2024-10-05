@@ -2,9 +2,9 @@
 
 using UnrealBuildTool;
 
-public class LECACA : ModuleRules
+public class Ludum_Tiny : ModuleRules
 {
-	public LECACA(ReadOnlyTargetRules Target) : base(Target)
+	public Ludum_Tiny(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	

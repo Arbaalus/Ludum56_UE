@@ -1,12 +1,12 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 
-#include "MyClass.h"
+#include "TestClass.h"
 
-MyClass::MyClass()
+TestClass::TestClass()
 {
 }
 
-MyClass::~MyClass()
+TestClass::~TestClass()
 {
 }
